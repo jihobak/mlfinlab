@@ -147,6 +147,17 @@ Implementations
 * :doc:`implementations/sb_bagging`
 * :doc:`implementations/structural_breaks`
 
+Recipes
+########
+
+.. toctree::
+    :caption: Financial Data Structures
+
+    recipes/Financial Data Structure
+
+
+* :doc:'recipes/Financial Data Structure'
+
 Additional Information
 ######################
 .. toctree::
