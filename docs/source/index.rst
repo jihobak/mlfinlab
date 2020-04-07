@@ -148,10 +148,11 @@ Implementations
 * :doc:`implementations/structural_breaks`
 
 Recipes
-########
+#######
 
 .. toctree::
-    :caption: Financial Data Structures
+    :maxdepth: 2
+    :caption: Recipes
 
     recipes/Financial Data Structure
 
