@@ -155,9 +155,11 @@ Recipes
     :caption: Recipes
 
     recipes/Financial Data Structure
+    recipes/Labeling
 
 
 * :doc:'recipes/Financial Data Structure'
+* :doc:'recipes/Labeling'
 
 Additional Information
 ######################
