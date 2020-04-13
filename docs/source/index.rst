@@ -157,11 +157,13 @@ Recipes
     recipes/Financial Data Structure
     recipes/Labeling
     recipes/Sampling and Weight
+    recipes/Ensemble methods
 
 
 * :doc:'recipes/Financial Data Structure'
 * :doc:'recipes/Labeling'
 * :doc:'recipes/Sampling and Weight'
+* :doc:'recipes/Ensemble methods'
 
 Additional Information
 ######################
